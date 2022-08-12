@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![One Piece](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD4aNHG1L-txpk8iCvLeg0Y88liOtnRs3BWA&usqp=CAU)
 <!--
 **smgalih19/smgalih19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

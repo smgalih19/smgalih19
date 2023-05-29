@@ -1,14 +1,11 @@
 ### Hi there, I'm Sugih👋
-
-![One Piece](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD4aNHG1L-txpk8iCvLeg0Y88liOtnRs3BWA&usqp=CAU)
-
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=smgalih19&show_icons=true&theme=radical" height=150 />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smgalih19&layout=compact" height=150 />
 </p>
 <!--
 **smgalih19/smgalih19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![One Piece](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD4aNHG1L-txpk8iCvLeg0Y88liOtnRs3BWA&usqp=CAU)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

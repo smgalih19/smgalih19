@@ -1,8 +1,8 @@
 ### Hi there, I'm Sugih👋
 Wilujeung Sumping
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=smgalih19&show_icons=true&theme=radical" height=150 />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smgalih19&layout=compact" height=150 />
+    <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=smgalih19&show_icons=true&theme=radical" height=150 />
+    <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=smgalih19&layout=compact" height=150 />
 </p>
 <!--
 **smgalih19/smgalih19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

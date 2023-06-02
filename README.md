@@ -1,10 +1,8 @@
 ### Hi there, I'm Sugih👋
 Wilujeung Sumping
 <p>
-    <a href="https://github.com/smgalih19">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smgalih19&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smgalih19&layout=compact&langs_count=8&theme=algolia"/>
-    </a>
 </p>
 <!--
 **smgalih19/smgalih19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

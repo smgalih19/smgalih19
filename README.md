@@ -1,4 +1,4 @@
-<h1><b>Hi , I'm Sugih </b><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30"></h1>
+<h1><b>Hi , I'm Sugih </b><picture></h1>
 
 <p>
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1&width=435&lines=Welcome;Selamat+Datang;Wilujeung+Sumping" alt="Typing SVG"/>
